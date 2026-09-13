@@ -13,7 +13,7 @@ This portfolio is built using strictly **HTML5, CSS3, and Vanilla JavaScript**, 
 - **Recruiter-Friendly Layout:** Quick access to skills, projects, experience, and contact information.
 
 ## Tech Stack
-- HTML5
+- 
 - CSS3 (with CSS Variables for easy theming)
 - Vanilla JavaScript
 - Font: Inter (Google Fonts)
