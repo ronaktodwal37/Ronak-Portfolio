@@ -20,7 +20,7 @@ This portfolio is built using strictly **HTML5, CSS3, and Vanilla JavaScript**, 
 - Icons: Phosphor Icons (CDN)
 
 ## Running the Project
-
+This is a static website, so it requires no build process or package managers.
 
 1. Clone or download the repository.
 2. Open `index.html` directly in any modern web browser.
