@@ -14,7 +14,7 @@ This portfolio is built using strictly **HTML5, CSS3, and Vanilla JavaScript**, 
 
 ## Tech Stack
 - HTML5
--  (with CSS Variables for easy theming)
+- CSS3(with CSS Variables for easy theming)
 - Vanilla JavaScript
 - Font: Inter (Google Fonts)
 - Icons: Phosphor Icons (CDN)
