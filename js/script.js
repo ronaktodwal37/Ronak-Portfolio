@@ -29,13 +29,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // mobileOverlay.addEventListener('click', toggleMenu);
 
     // Close menu when a link is clicked
-    navItems.forEach(item => {
+    // navItems.forEach(item => {
         // item.addEventListener('click', () => {
             // if (navLinks.classList.contains('active')) {
                 // toggleMenu();
             // }
         // });
-    });
+    // });
 
     /* --- 2. Sticky Navbar & Active Link Highlight --- */
     const navbar = document.getElementById('navbar');
