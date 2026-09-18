@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Simulate API call delay
             setTimeout(() => {
                 contactForm.reset();
-                btn.innerHTML = originalText;
+                // btn.innerHTML = originalText;
                 btn.disabled = false;
                 
                 // Show success message
