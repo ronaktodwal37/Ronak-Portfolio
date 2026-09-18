@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // const navItems = document.querySelectorAll('.nav-link, .nav-btn');
 
     function toggleMenu() {
-        navLinks.classList.toggle('active');
+        // navLinks.classList.toggle('active');
         mobileOverlay.classList.toggle('active');
         
         // Toggle icon between list and X
