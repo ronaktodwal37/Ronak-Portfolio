@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
     navItems.forEach(item => {
         item.addEventListener('click', () => {
             if (navLinks.classList.contains('active')) {
-                toggleMenu();
+                // toggleMenu();
             }
         });
     });
