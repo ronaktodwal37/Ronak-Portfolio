@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     /* --- 5. Contact Form Simulation --- */
     // const contactForm = document.getElementById('contactForm');
-    const formStatus = document.getElementById('formStatus');
+    // const formStatus = document.getElementById('formStatus');
 
     if (contactForm) {
         contactForm.addEventListener('submit', function(e) {
