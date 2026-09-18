@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', () => {
             setTimeout(() => {
                 contactForm.reset();
                 // btn.innerHTML = originalText;
-                btn.disabled = false;
+                // btn.disabled = false;
                 
                 // Show success message
                 formStatus.textContent = 'Message sent successfully! I will get back to you soon.';
