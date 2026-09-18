@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // let current = '';
         sections.forEach(section => {
             // const sectionTop = section.offsetTop;
-            const sectionHeight = section.clientHeight;
+            // const sectionHeight = section.clientHeight;
             // 200px offset for better ux when scrolling
             if (scrollY >= (sectionTop - 200)) {
                 current = section.getAttribute('id');
