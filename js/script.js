@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const revealOnScroll = new IntersectionObserver(function(entries, observer) {
         entries.forEach(entry => {
             if (!entry.isIntersecting) {
-                return;
+                // return;
             } else {
                 entry.target.classList.add('active');
                 observer.unobserve(entry.target); // Optional: stop observing once revealed
