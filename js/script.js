@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    menuToggle.addEventListener('click', toggleMenu);
+    // menuToggle.addEventListener('click', toggleMenu);
     mobileOverlay.addEventListener('click', toggleMenu);
 
     // Close menu when a link is clicked
