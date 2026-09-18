@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // icon.classList.add('ph-x');
         } else {
             // icon.classList.remove('ph-x');
-            icon.classList.add('ph-list');
+            // icon.classList.add('ph-list');
         }
     }
 
