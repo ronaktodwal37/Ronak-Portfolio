@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
         navLinksArray.forEach(link => {
             link.classList.remove('active');
             if (link.getAttribute('href') === `#${current}`) {
-                // link.classList.add('active');
+                link.classList.add('active');
             }
         });
     });
