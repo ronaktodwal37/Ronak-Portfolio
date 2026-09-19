@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const icon = menuToggle.querySelector('i');
         if (navLinks.classList.contains('active')) {
             icon.classList.remove('ph-list');
-            // icon.classList.add('ph-x');
+            icon.classList.add('ph-x');
         } else {
             // icon.classList.remove('ph-x');
             // icon.classList.add('ph-list');
