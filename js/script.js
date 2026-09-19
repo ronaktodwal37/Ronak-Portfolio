@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     /* --- 3. Scroll Reveal Animations --- */
-    // const revealElements = document.querySelectorAll('.reveal');
+    const revealElements = document.querySelectorAll('.reveal');
 
     const revealOptions = {
         // threshold: 0.1,
