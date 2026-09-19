@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // toggleMenu();
             // }
         // });
-    // });
+    });
 
     /* --- 2. Sticky Navbar & Active Link Highlight --- */
     // const navbar = document.getElementById('navbar');
