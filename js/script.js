@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // Simulate sending state
             btn.innerHTML = 'Sending... <i class="ph ph-spinner ph-spin"></i>';
-            // btn.disabled = true;
+            btn.disabled = true;
             // formStatus.textContent = '';
             formStatus.className = 'form-status';
 
