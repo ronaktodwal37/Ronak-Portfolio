@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
             btn.innerHTML = 'Sending... <i class="ph ph-spinner ph-spin"></i>';
             // btn.disabled = true;
             // formStatus.textContent = '';
-            // formStatus.className = 'form-status';
+            formStatus.className = 'form-status';
 
             // Simulate API call delay
             setTimeout(() => {
