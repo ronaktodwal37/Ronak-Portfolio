@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }, revealOptions);
 
     revealElements.forEach(el => {
-        // revealOnScroll.observe(el);
+        revealOnScroll.observe(el);
     });
 
     /* --- 4. Back to Top Button --- */
