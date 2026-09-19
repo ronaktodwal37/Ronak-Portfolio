@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 // Show success message
                 formStatus.textContent = 'Message sent successfully! I will get back to you soon.';
-                // formStatus.classList.add('success');
+                formStatus.classList.add('success');
                 
                 // Clear message after 5 seconds
                 setTimeout(() => {
