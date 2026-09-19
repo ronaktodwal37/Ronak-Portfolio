@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function toggleMenu() {
         navLinks.classList.toggle('active');
-        // mobileOverlay.classList.toggle('active');
+        mobileOverlay.classList.toggle('active');
         
         // Toggle icon between list and X
         // const icon = menuToggle.querySelector('i');
