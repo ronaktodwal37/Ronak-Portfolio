@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!entry.isIntersecting) {
                 return;
             } else {
-                // entry.target.classList.add('active');
+                entry.target.classList.add('active');
                 observer.unobserve(entry.target); // Optional: stop observing once revealed
             }
         });
