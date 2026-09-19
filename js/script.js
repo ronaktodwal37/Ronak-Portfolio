@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Active Link highlighting
         let current = '';
         sections.forEach(section => {
-            // const sectionTop = section.offsetTop;
+            const sectionTop = section.offsetTop;
             // const sectionHeight = section.clientHeight;
             // 200px offset for better ux when scrolling
             // if (scrollY >= (sectionTop - 200)) {
