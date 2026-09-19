@@ -56,9 +56,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const sectionTop = section.offsetTop;
             const sectionHeight = section.clientHeight;
             // 200px offset for better ux when scrolling
-            // if (scrollY >= (sectionTop - 200)) {
+            if (scrollY >= (sectionTop - 200)) {
                 // current = section.getAttribute('id');
-            // }
+            }
         });
 
         navLinksArray.forEach(link => {
