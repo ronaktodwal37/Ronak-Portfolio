@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const sectionHeight = section.clientHeight;
             // 200px offset for better ux when scrolling
             if (scrollY >= (sectionTop - 200)) {
-                // current = section.getAttribute('id');
+                current = section.getAttribute('id');
             }
         });
 
