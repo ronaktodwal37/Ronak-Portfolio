@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     /* --- 4. Back to Top Button --- */
-    // const backToTopBtn = document.getElementById('backToTop');
+    const backToTopBtn = document.getElementById('backToTop');
 
     backToTopBtn.addEventListener('click', () => {
         window.scrollTo({
