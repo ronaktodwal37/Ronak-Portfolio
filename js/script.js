@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
             icon.classList.remove('ph-list');
             icon.classList.add('ph-x');
         } else {
-            // icon.classList.remove('ph-x');
+            icon.classList.remove('ph-x');
             // icon.classList.add('ph-list');
         }
     }
