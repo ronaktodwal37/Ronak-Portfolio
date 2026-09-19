@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     /* --- 1. Mobile Hamburger Menu --- */
     const menuToggle = document.querySelector('.menu-toggle');
     const navLinks = document.querySelector('.nav-links');
-    // const mobileOverlay = document.querySelector('.mobile-menu-overlay');
+    const mobileOverlay = document.querySelector('.mobile-menu-overlay');
     // const navItems = document.querySelectorAll('.nav-link, .nav-btn');
 
     function toggleMenu() {
