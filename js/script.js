@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
         contactForm.addEventListener('submit', function(e) {
             e.preventDefault();
             
-            // const btn = this.querySelector('button[type="submit"]');
+            const btn = this.querySelector('button[type="submit"]');
             // const originalText = btn.innerHTML;
             
             // Simulate sending state
