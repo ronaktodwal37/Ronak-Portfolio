@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             
             const btn = this.querySelector('button[type="submit"]');
-            // const originalText = btn.innerHTML;
+            const originalText = btn.innerHTML;
             
             // Simulate sending state
             btn.innerHTML = 'Sending... <i class="ph ph-spinner ph-spin"></i>';
