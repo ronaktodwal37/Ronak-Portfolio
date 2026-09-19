@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (window.scrollY > 50) {
             navbar.classList.add('scrolled');
         } else {
-            // navbar.classList.remove('scrolled');
+            navbar.classList.remove('scrolled');
         }
 
         // Active Link highlighting
