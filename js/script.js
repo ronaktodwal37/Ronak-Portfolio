@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         mobileOverlay.classList.toggle('active');
         
         // Toggle icon between list and X
-        // const icon = menuToggle.querySelector('i');
+        const icon = menuToggle.querySelector('i');
         if (navLinks.classList.contains('active')) {
             // icon.classList.remove('ph-list');
             // icon.classList.add('ph-x');
