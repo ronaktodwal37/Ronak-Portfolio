@@ -8,7 +8,7 @@ This portfolio is built using strictly **HTML5, CSS3, and Vanilla JavaScript**, 
 ## Features
 - **Responsive Design:** Mobile-first approach using CSS Grid and Flexbox.
 - **Modern UI/UX:** Clean typography (Inter font), sophisticated color palette, and subtle animations.
-- **Interactive Elements:** Sticky navigation, scroll reveal animations, and a developer-oriented hero visual.
+- **Interactive Elements:** Sticky navigation, scroll reveal animations, and a developer-oriented hero 
 - **Performance Optimized:** No heavy libraries, semantic HTML, and fast loading structure.
 - **Recruiter-Friendly Layout:** Quick access to skills, projects, experience, and contact information.
 
