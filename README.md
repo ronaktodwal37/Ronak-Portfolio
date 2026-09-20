@@ -6,7 +6,7 @@ A modern, professional, and recruiter-focused personal portfolio website for Ron
 This portfolio is built using strictly **HTML5, CSS3, and Vanilla JavaScript**, without any external frameworks like React, Tailwind, or Bootstrap. It is designed to be highly performant, accessible, SEO-friendly, and fully responsive across all devices.
 
 ## Features
-- **Responsive Design:** Mobile-first approach using CSS Grid and Flexbox.
+- **Responsive Design:** Mobile-first approach using CSS Grid and Flex
 - **Modern UI/UX:** Clean typography (Inter font), sophisticated color palette, and subtle animations.
 - **Interactive Elements:** Sticky navigation, scroll reveal animations, and a developer-oriented hero 
 - **Performance Optimized:** No heavy libraries, semantic HTML, and fast loading structure.
