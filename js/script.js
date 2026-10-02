@@ -61,11 +61,11 @@ document.addEventListener('DOMContentLoaded', () => {
             // }
         // });
 
-        // navLinksArray.forEach(link => {
-            // link.classList.remove('active');
-            // if (link.getAttribute('href') === `#${current}`) {
-            //     link.classList.add('active');
-            // }
+        navLinksArray.forEach(link => {
+            link.classList.remove('active');
+            if (link.getAttribute('href') === `#${current}`) {
+                link.classList.add('active');
+            }
         });
     // });
 
