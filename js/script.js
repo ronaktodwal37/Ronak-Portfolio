@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
     /* --- 2. Sticky Navbar & Active Link Highlight --- */
     // const navbar = document.getElementById('navbar');
     // const sections = document.querySelectorAll('section');
-    const navLinksArray = document.querySelectorAll('.nav-list .nav-link');
+    // const navLinksArray = document.querySelectorAll('.nav-list .nav-link');
 
     window.addEventListener('scroll', () => {
         // Sticky Navbar styling
