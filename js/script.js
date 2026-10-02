@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 link.classList.add('active');
             }
         });
-    // });
+    });
 
     /* --- 3. Scroll Reveal Animations --- */
     const revealElements = document.querySelectorAll('.reveal');
