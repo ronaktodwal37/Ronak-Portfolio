@@ -72,10 +72,10 @@ document.addEventListener('DOMContentLoaded', () => {
     /* --- 3. Scroll Reveal Animations --- */
     // const revealElements = document.querySelectorAll('.reveal');
 
-    // const revealOptions = {
-    //     threshold: 0.1,
-    //     rootMargin: "0px 0px -50px 0px"
-    // };
+    const revealOptions = {
+        threshold: 0.1,
+        rootMargin: "0px 0px -50px 0px"
+    };
 
     const revealOnScroll = new IntersectionObserver(function(entries, observer) {
         entries.forEach(entry => {
