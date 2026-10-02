@@ -44,11 +44,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     window.addEventListener('scroll', () => {
         // Sticky Navbar styling
-        // if (window.scrollY > 50) {
-            // navbar.classList.add('scrolled');
-        // } else {
-            // navbar.classList.remove('scrolled');
-        // }
+        if (window.scrollY > 50) {
+            navbar.classList.add('scrolled');
+        } else {
+            navbar.classList.remove('scrolled');
+        }
 
         // Active Link highlighting
         let current = '';
