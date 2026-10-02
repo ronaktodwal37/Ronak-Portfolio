@@ -52,14 +52,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Active Link highlighting
         let current = '';
-        sections.forEach(section => {
+        // sections.forEach(section => {
             // const sectionTop = section.offsetTop;
             // const sectionHeight = section.clientHeight;
             // 200px offset for better ux when scrolling
             // if (scrollY >= (sectionTop - 200)) {
             //     current = section.getAttribute('id');
             // }
-        });
+        // });
 
         navLinksArray.forEach(link => {
             link.classList.remove('active');
