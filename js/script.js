@@ -61,13 +61,13 @@ document.addEventListener('DOMContentLoaded', () => {
             // }
         // });
 
-        navLinksArray.forEach(link => {
+        // navLinksArray.forEach(link => {
             link.classList.remove('active');
             if (link.getAttribute('href') === `#${current}`) {
                 link.classList.add('active');
             }
         });
-    });
+    // });
 
     /* --- 3. Scroll Reveal Animations --- */
     const revealElements = document.querySelectorAll('.reveal');
