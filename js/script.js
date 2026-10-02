@@ -88,9 +88,9 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }, revealOptions);
 
-    revealElements.forEach(el => {
-        revealOnScroll.observe(el);
-    });
+    // revealElements.forEach(el => {
+    //     revealOnScroll.observe(el);
+    // });
 
     /* --- 4. Back to Top Button --- */
     const backToTopBtn = document.getElementById('backToTop');
