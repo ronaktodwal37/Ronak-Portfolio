@@ -31,9 +31,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Close menu when a link is clicked
     navItems.forEach(item => {
         item.addEventListener('click', () => {
-            // if (navLinks.classList.contains('active')) {
-            //     toggleMenu();
-            // }
+            if (navLinks.classList.contains('active')) {
+                toggleMenu();
+            }
         });
     });
 
