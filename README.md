@@ -17,7 +17,7 @@ This portfolio is built using strictly **HTML5, CSS3, and Vanilla JavaScript**, 
 - CSS3(with CSS Variables for easy theming)
 - Vanilla JavaScript
 - Font: Inter 
-- Icons: Phosphor Icons (CDN)
+- Icons: Phosphor Icons
 
 ## Running the Project
 This is a static website, so it requires no build process or package managers.
